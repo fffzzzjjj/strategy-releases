@@ -1,6 +1,6 @@
 {
-  "version": "2.3.3",
-  "versionCode": 17,
-  "apk": "https://raw.githubusercontent.com/fffzzzjjj/strategy-releases/main/Strategy-2.3.3.apk",
-  "notes": "首页策略建议改为紧凑胶囊标签，去掉线条边框。"
+  "version": "2.3.4",
+  "versionCode": 18,
+  "apk": "https://raw.githubusercontent.com/fffzzzjjj/strategy-releases/main/Strategy-2.3.4.apk",
+  "notes": "首页策略建议改为固定高度方块。"
 }
