@@ -1,6 +1,6 @@
 {
-  "version": "2.3.4",
-  "versionCode": 18,
-  "apk": "https://raw.githubusercontent.com/fffzzzjjj/strategy-releases/main/Strategy-2.3.4.apk",
-  "notes": "首页策略建议改为固定高度方块。"
+  "version": "2.3.5",
+  "versionCode": 19,
+  "apk": "https://raw.githubusercontent.com/fffzzzjjj/strategy-releases/main/Strategy-2.3.5.apk",
+  "notes": "恢复选中策略的历史交易记录，并随卡片切换。"
 }
