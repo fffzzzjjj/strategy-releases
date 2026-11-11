@@ -1,6 +1,6 @@
 {
-  "version": "2.2.2",
-  "versionCode": 13,
-  "apk": "https://raw.githubusercontent.com/fffzzzjjj/strategy-releases/main/Strategy-2.2.2.apk",
-  "notes": "去掉“我的资产”小字，资产卡顶格显示。"
+  "version": "2.3",
+  "versionCode": 14,
+  "apk": "https://raw.githubusercontent.com/fffzzzjjj/strategy-releases/main/Strategy-2.3.apk",
+  "notes": "首页卡片随建议变色，点击切换上方建议；App 内下载进度并直接打开安装器。"
 }
