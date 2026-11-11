@@ -1,6 +1,6 @@
 {
-  "version": "2.2",
-  "versionCode": 11,
-  "apk": "https://raw.githubusercontent.com/fffzzzjjj/strategy-releases/main/Strategy-2.2.apk",
-  "notes": "UI 视觉优化、公开更新源检查更新、首页三策略与策略对比。"
+  "version": "2.2.1",
+  "versionCode": 12,
+  "apk": "https://raw.githubusercontent.com/fffzzzjjj/strategy-releases/main/Strategy-2.2.1.apk",
+  "notes": "建议卡恢复原深色背景，保留其他 UI 优化。"
 }
