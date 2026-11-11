@@ -1,6 +1,6 @@
 {
-  "version": "2.2.1",
-  "versionCode": 12,
-  "apk": "https://raw.githubusercontent.com/fffzzzjjj/strategy-releases/main/Strategy-2.2.1.apk",
-  "notes": "建议卡恢复原深色背景，保留其他 UI 优化。"
+  "version": "2.2.2",
+  "versionCode": 13,
+  "apk": "https://raw.githubusercontent.com/fffzzzjjj/strategy-releases/main/Strategy-2.2.2.apk",
+  "notes": "去掉“我的资产”小字，资产卡顶格显示。"
 }
