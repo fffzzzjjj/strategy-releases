@@ -1,6 +1,6 @@
 {
-  "version": "2.3.1",
-  "versionCode": 15,
-  "apk": "https://raw.githubusercontent.com/fffzzzjjj/strategy-releases/main/Strategy-2.3.1.apk",
-  "notes": "缩小资产卡顶部与建议卡之间的间距。"
+  "version": "2.3.2",
+  "versionCode": 16,
+  "apk": "https://raw.githubusercontent.com/fffzzzjjj/strategy-releases/main/Strategy-2.3.2.apk",
+  "notes": "缩小首页策略建议卡片高度。"
 }
