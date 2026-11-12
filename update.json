@@ -1,6 +1,6 @@
 {
-  "version": "2.3.5",
-  "versionCode": 19,
-  "apk": "https://raw.githubusercontent.com/fffzzzjjj/strategy-releases/main/Strategy-2.3.5.apk",
-  "notes": "恢复选中策略的历史交易记录，并随卡片切换。"
+  "version": "2.3.6",
+  "versionCode": 20,
+  "apk": "https://raw.githubusercontent.com/fffzzzjjj/strategy-releases/main/Strategy-2.3.6.apk",
+  "notes": "历史交易支持展开/收起。"
 }
