@@ -1,6 +1,6 @@
 {
-  "version": "2.3.6",
-  "versionCode": 20,
-  "apk": "https://raw.githubusercontent.com/fffzzzjjj/strategy-releases/main/Strategy-2.3.6.apk",
-  "notes": "历史交易支持展开/收起。"
+  "version": "2.3.7",
+  "versionCode": 21,
+  "apk": "https://raw.githubusercontent.com/fffzzzjjj/strategy-releases/main/Strategy-2.3.7.apk",
+  "notes": "管理策略与历史交易展开改为图形按钮。"
 }
